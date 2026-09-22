@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktmgmt_contentapi_docs||=[]).push([[3327],{3327(e,t,c){c.d(t,{createPacketServices:()=>a.$});var a=c(3263);c(4954)}}]);

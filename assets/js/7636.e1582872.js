@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktmgmt_contentapi_docs||=[]).push([[7636],{7636(e,t,c){c.d(t,{createCynefinServices:()=>s.t});var s=c(3279);c(4954)}}]);

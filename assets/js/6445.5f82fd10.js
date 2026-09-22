@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktmgmt_contentapi_docs||=[]).push([[6445],{6445(e,t,c){c.d(t,{createInfoServices:()=>s.v});var s=c(4614);c(4954)}}]);
