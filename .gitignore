@@ -3,9 +3,19 @@ node_modules/
 .docusaurus/
 .cache-loader/
 
-# Local envs
-.env.local
+# Local envs / secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+credentials.env
 
 # Playwright artifacts
 test-results/
 playwright-report/
+
+# OS
+.DS_Store
+Thumbs.db
