@@ -17,7 +17,7 @@ are grouped and submitted per the rules configured below.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/auto/auto-bundle-tab-master-switch.png"
+  <img src={require("@site/static/img/auto/auto-bundle-tab-master-switch.png").default}
        alt="Placeholder — the top of the Auto-Bundle tab with the master switch and the 'Live preview ON' pill"
        loading="lazy" />
   <figcaption>

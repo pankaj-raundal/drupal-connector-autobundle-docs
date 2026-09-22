@@ -32,7 +32,7 @@ containing related content.
 ## The three concepts you need
 
 <figure className="docs-screenshot">
-  <img src="/img/placeholders/screenshot-pending.png"
+  <img src={require("@site/static/img/placeholders/screenshot-pending.png").default}
        alt="Grouping dimensions decide which items belong together; triggers decide when to send them; caps decide the maximum bundle size."
        loading="lazy" />
   <figcaption>

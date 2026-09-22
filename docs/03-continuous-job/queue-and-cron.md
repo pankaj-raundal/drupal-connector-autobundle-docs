@@ -52,7 +52,7 @@ cron impact.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/placeholders/screenshot-pending.png"
+  <img src={require("@site/static/img/placeholders/screenshot-pending.png").default}
        alt="Placeholder — status page or drush queue:list output showing the tmgmt_contentapi queues"
        loading="lazy" />
   <figcaption>Queue overview. Highlight items pending vs items released.</figcaption>

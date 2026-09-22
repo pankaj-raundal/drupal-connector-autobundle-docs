@@ -19,7 +19,7 @@ invalid TMGMT jobs.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/auto/auto-bundle-tab-always-on.png"
+  <img src={require("@site/static/img/auto/auto-bundle-tab-always-on.png").default}
        alt="Placeholder — Always-on grouping dimensions section with four disabled checkboxes"
        loading="lazy" />
   <figcaption>

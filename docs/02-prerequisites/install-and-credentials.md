@@ -24,7 +24,7 @@ Content API account.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/auto/install-credentials.png"
+  <img src={require("@site/static/img/auto/install-credentials.png").default}
        alt="Placeholder — replace with a screenshot of the Lionbridge provider settings form"
        loading="lazy" />
   <figcaption>Provider settings screen. Highlight the credential fields and the "Test connection" button.</figcaption>

@@ -18,7 +18,7 @@ bypass bundling entirely.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/placeholders/screenshot-pending.png"
+  <img src={require("@site/static/img/placeholders/screenshot-pending.png").default}
        alt="Placeholder — TMGMT job edit form with the 'Continuous' checkbox highlighted"
        loading="lazy" />
   <figcaption>TMGMT job → mark as continuous.</figcaption>

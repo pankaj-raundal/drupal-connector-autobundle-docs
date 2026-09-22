@@ -28,7 +28,7 @@ event subscribers. Cover:_
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/placeholders/screenshot-pending.png"
+  <img src={require("@site/static/img/placeholders/screenshot-pending.png").default}
        alt="Placeholder — Drupal status message after saving a translatable node"
        loading="lazy" />
   <figcaption>Confirmation shown to the editor after a successful save that enters the bundle queue.</figcaption>

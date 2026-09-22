@@ -17,7 +17,7 @@ pages, and so on.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/auto/auto-bundle-tab-group-by-content-type.png"
+  <img src={require("@site/static/img/auto/auto-bundle-tab-group-by-content-type.png").default}
        alt="Placeholder — Group by content type checkbox with What this does and Example callouts"
        loading="lazy" />
   <figcaption>

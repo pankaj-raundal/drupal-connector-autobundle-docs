@@ -22,7 +22,7 @@ Only visible when the `content_moderation` core module is enabled.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/auto/auto-bundle-tab-workflow-gate.png"
+  <img src={require("@site/static/img/auto/auto-bundle-tab-workflow-gate.png").default}
        alt="Placeholder — Workflow gate details with a checkbox list of allowed moderation states"
        loading="lazy" />
   <figcaption>

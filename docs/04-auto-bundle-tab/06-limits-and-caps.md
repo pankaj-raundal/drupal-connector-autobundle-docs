@@ -19,7 +19,7 @@ or for Lionbridge translators.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/auto/auto-bundle-tab-caps.png"
+  <img src={require("@site/static/img/auto/auto-bundle-tab-caps.png").default}
        alt="Placeholder — Limits & safety caps details section, collapsed by default"
        loading="lazy" />
   <figcaption>

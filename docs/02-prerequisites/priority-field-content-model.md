@@ -25,7 +25,7 @@ and the priority-grouping feature is effectively unavailable.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/placeholders/screenshot-pending.png"
+  <img src={require("@site/static/img/placeholders/screenshot-pending.png").default}
        alt="Placeholder — Manage fields form on a content type, showing a List (text) field being added"
        loading="lazy" />
   <figcaption>Structure → Content types → [type] → Manage fields → Add field → List (text).</figcaption>

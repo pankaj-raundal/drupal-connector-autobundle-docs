@@ -24,7 +24,7 @@ in [Priority field content model](/02-prerequisites/priority-field-content-model
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/auto/auto-bundle-tab-priority.png"
+  <img src={require("@site/static/img/auto/auto-bundle-tab-priority.png").default}
        alt="Placeholder — Group by priority tier checkbox with the priority field picker below"
        loading="lazy" />
   <figcaption>

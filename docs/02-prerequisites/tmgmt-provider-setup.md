@@ -17,7 +17,7 @@ stored **on this translator**, not in a Drupal `config` object.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/placeholders/screenshot-pending.png"
+  <img src={require("@site/static/img/placeholders/screenshot-pending.png").default}
        alt="Placeholder — TMGMT provider edit form for a Lionbridge Content API translator"
        loading="lazy" />
   <figcaption>The parent translator edit form. Highlight the local tasks bar (Edit / Auto-Bundle / …).</figcaption>

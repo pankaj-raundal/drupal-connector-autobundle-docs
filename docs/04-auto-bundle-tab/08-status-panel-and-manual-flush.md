@@ -21,7 +21,7 @@ group without waiting for triggers.
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/placeholders/screenshot-pending.png"
+  <img src={require("@site/static/img/placeholders/screenshot-pending.png").default}
        alt="Placeholder — right-hand status panel on the Auto-Bundle tab, listing pending groups with age and item count"
        loading="lazy" />
   <figcaption>

@@ -18,7 +18,7 @@ met, `AutoBundleTriggerEvaluator` marks the bundle as due and
 ## Screenshot
 
 <figure className="docs-screenshot">
-  <img src="/img/auto/auto-bundle-tab-triggers.png"
+  <img src={require("@site/static/img/auto/auto-bundle-tab-triggers.png").default}
        alt="Placeholder — Send a bundle when… section with word count, item count, and maximum wait time inputs"
        loading="lazy" />
   <figcaption>
