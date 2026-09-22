@@ -1,0 +1,2 @@
+# Local envs — never commit.
+.env.local

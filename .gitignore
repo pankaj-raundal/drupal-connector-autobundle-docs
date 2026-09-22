@@ -1,0 +1,11 @@
+build/
+node_modules/
+.docusaurus/
+.cache-loader/
+
+# Local envs
+.env.local
+
+# Playwright artifacts
+test-results/
+playwright-report/
