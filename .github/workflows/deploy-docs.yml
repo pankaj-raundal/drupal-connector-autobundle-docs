@@ -2,7 +2,7 @@ name: Deploy docs to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
   workflow_dispatch:
 
 # Only one concurrent deploy per branch — later pushes cancel earlier runs.
